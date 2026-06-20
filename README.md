@@ -6,21 +6,21 @@ A web showcase for **Geoleaf**, a GIS-based Android Application for Flora Specie
 
 Install dependencies:
 
-\`\`\`
+```
 npm install
-\`\`\`
+```
 
 Run the development server:
 
-\`\`\`
+```
 npm run dev
-\`\`\`
+```
 
 Build for production:
 
-\`\`\`
+```
 npm run build
-\`\`\`
+```
 
 ## Tech Stack
 
@@ -30,7 +30,7 @@ npm run build
 
 ## Project Structure
 
-\`\`\`
+```
 src/
   components/
     Navbar.tsx        - top navigation bar
@@ -40,7 +40,7 @@ src/
     HowItWorks.tsx       - 3-step process explanation
   App.tsx              - assembles all sections into the page
   App.css               - page styling
-\`\`\`
+```
 
 ## Notes
 
