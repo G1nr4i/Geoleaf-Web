@@ -1,26 +1,26 @@
 # GeoLeaf Web
 
-A web showcase for **GeoLeaf**, a GIS-based Android mobile app for geographical mapping using a mobile device camera and cellular GPS. This site presents the app and its features — it is not a data dashboard or live viewer.
+A web showcase for **Geoleaf**, a GIS-based Android Application for Flora Species, Monitoring, and Geographical Mapping. This site presents the app and its features — it is not a data dashboard or live viewer.
 
 ## Getting Started
 
 Install dependencies:
 
-```
+\`\`\`
 npm install
-```
+\`\`\`
 
 Run the development server:
 
-```
+\`\`\`
 npm run dev
-```
+\`\`\`
 
 Build for production:
 
-```
+\`\`\`
 npm run build
-```
+\`\`\`
 
 ## Tech Stack
 
@@ -30,7 +30,7 @@ npm run build
 
 ## Project Structure
 
-```
+\`\`\`
 src/
   components/
     Navbar.tsx        - top navigation bar
@@ -40,9 +40,8 @@ src/
     HowItWorks.tsx       - 3-step process explanation
   App.tsx              - assembles all sections into the page
   App.css               - page styling
-```
+\`\`\`
 
 ## Notes
 
-- The "Plant recognition" feature is still pending a feasibility study and may need confirmation before being finalized.
-- Replace the placeholder in `PhonePreview.tsx` with an actual screenshot of the Android app once available.
+- Replace the placeholder in \`PhonePreview.tsx\` with an actual screenshot of the Android app once available.

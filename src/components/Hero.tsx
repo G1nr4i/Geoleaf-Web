@@ -1,7 +1,7 @@
 export default function Hero() {
   return (
     <section className="hero">
-      <span className="hero-badge">Thesis research project</span>
+      <span className="hero-badge">Project</span>
       <h1 className="hero-title">Map your surroundings, one photo at a time</h1>
       <p className="hero-subtitle">
         GeoLeaf is a GIS-based mobile app that uses your camera and GPS to
