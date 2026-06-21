@@ -3,7 +3,7 @@ export default function PhonePreview() {
     <section className="phone-preview-wrap">
       <div className="phone-preview">
         <span className="phone-preview-label">App preview</span>
-        {/* Replace this block with a real screenshot of the Android app */}
+        {/* gonna replace with actual app screenshot soon */}
       </div>
     </section>
   )
